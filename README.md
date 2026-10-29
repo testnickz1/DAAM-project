@@ -2,7 +2,7 @@
 
 # 🥬 DAAM
 
-**Доставка еды и продуктов в Бишкеке — в стиле ВкусВилл**
+**Доставка еды и продуктов в Бишкеке**
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
