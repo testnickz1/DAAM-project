@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-onest), system-ui, sans-serif;
+  --color-brand: #4ba83d;
+  --color-brand-dark: #3a8c2e;
+  --color-brand-soft: #eef7ea;
+  --color-sale: #e2383f;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+body { background: #f6faf3; color: #1f2a1c; }
+a { color: inherit; text-decoration: none; }
+input[type="search"]::-webkit-search-cancel-button { display: none; }
